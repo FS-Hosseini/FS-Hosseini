@@ -11,7 +11,6 @@ I am a passionate researcher specializing in Geospatial Analysis, Machine Learni
 
 ## 🛠️ Technical Skills
 - **Programming:** Python (TensorFlow, scikit-learn), Matlab, R
-- **Machine Learning & Deep Learning:** Random Forest, CNNs, LSTMs, XAI 
 - **Software:** Google Earth Engine (GEE), QGIS, ArcGIS
 
 ## 🚀 What I'd Like to Learn
