@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi! I'm Fatemeh Sadat Hosseini 👋
 
-<!--
-**FS-Hosseini/FS-Hosseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 About Me
 
-Here are some ideas to get you started:
+I am a passionate researcher specializing in Geospatial Analysis, Machine Learning, and Remote Sensing. My work focuses on applying advanced AI techniques to environmental challenges, particularly in climate change, soil science, and natural hazards. With a strong academic background in Geospatial Information Systems (GIS) and deep learning, I am dedicated to leveraging data-driven approaches for real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Research Interests
+
+Geospatial Modeling & Analysis
+
+Remote Sensing & Data Fusion
+
+Artificial Intelligence (ML/DL)
+
+Climate Change & Natural Hazards
+
+🛠️ Technical Skills
+
+Programming: Python (TensorFlow, scikit-learn), Matlab, R
+
+Machine Learning & Deep Learning: Random Forest, CNNs, LSTMs, XAI 
+
+Software:  Google Earth Engine (GEE), QGIS, ArcGIS
+
+🚀 What I'd like to learn?
+
+Large Language models, Transformer-based models, PINNS, ...
+
+📫 Get in Touch
+
+Email: fatemesadat1476@gmail.com
